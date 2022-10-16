@@ -1,3 +1,3 @@
-module github.com/wyzlle/kraft53
+module github.com/wyzlle/host53
 
 go 1.19
